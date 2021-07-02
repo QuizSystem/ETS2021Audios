@@ -1,0 +1,26 @@
+32-34
+
+M-Au: Hello, I'm a guest here at the hotel. I plan to do some sightseeing today, and I have a question.
+W-Br: Certainly. What can I help you with?
+M-Au: I'm interested in visiting a couple of historic neighborhoods. What would be a good way to travel around to see them?
+W-Br: Well, you could rent a bicycle. There's a shop just down the street where you can get one.
+M-Au: Oh, that's perfect if it's not too expensive.
+W-Br: I don't know what they charge, but I'd be happy to call them and find out.
+
+32- What does the man say he plans to do today?
+> A. Go sightseeing
+B. Attend a conference
+C. Purchase some gifts
+D. Stop at a bank
+
+33- What does the man ask about?
+A. Internet access
+B. Use of a fitness center
+> C. Transportation options
+D. Nearby restaurants
+
+34- What does the woman offer to do?
+A. Make a reservation
+B. Print a parking pass
+C. Provide a password
+> D. Check on some prices
