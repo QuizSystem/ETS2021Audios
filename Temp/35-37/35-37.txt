@@ -1,0 +1,25 @@
+35-37
+
+W-Am: The review of our restaurant is supported to be in today's newspaper. Have you seen it yet?
+M-Au: I read it before I came in to work. It's the first review in the Entertainment section!
+W-Am: Really? I hope it had a lot of good things to say about us.
+M-Au: It did. In fact, I think we'll have a lot of new customers this week, thanks to the positive review. Especially since the reviews really liked our specialty desserts!
+W-Am: Well, then we'd better prepare more food. I'll order more ingredients right away.
+
+35- What did the man do before coming in to work?
+A. He met with a friend.
+B. He revised a menu.
+> C. He read a newspaper.
+D. He bought some breakfast.
+
+36- What does the man think will happen this week?
+> A. There will be more customers.
+B. There will be a safety inspection.
+C. A contract will be renewed.
+D. A new chef will be hired.
+
+37- What will the woman most likely do next?
+A. Hire additional staff
+B. Schedule some repairs
+> C. Place an order
+D. Print an article
