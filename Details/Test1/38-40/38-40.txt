@@ -1,0 +1,27 @@
+38-40
+
+W-Cn: Welcome to Pavilion Appliance Store. How can I help you?
+W-Am: Well, the handle on the door of my refrigerator broke off.
+W-Cn: Oh, that's not good. If you bough it more than a year ago, it's not going to be covered by the warranty.
+W-Am: I know - I bought it three years ago. But I can fix it myself... I just need to buy the handle.
+M-Cn: I'm sorry, but we don't sell replacement parts.
+W-Am: So, do you know of a store that does sell them?
+W-Cn: Well, there is a Web site that sells appliance parts at good prices. You could see if they have what you're looking for. It's called AppliancePartsForyou.com.
+
+38- Who most likely is the man?
+A. A supermaket manager
+> B. An appliance store employee
+C. An ice-cream shop owner
+D. A real estate agent
+
+39- What problem does the woman mention?
+A. An invoice is incorrect.
+> B. An item is broken.
+C. A document is missing.
+D. A product is too expensive.
+
+40. What does the man suggest the woman do?
+A. What does the man suggest the woman do?
+B. Return some merchandise
+C. Call a specialist
+> D. Find an item online
