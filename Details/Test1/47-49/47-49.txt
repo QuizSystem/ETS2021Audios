@@ -1,0 +1,25 @@
+47-49
+
+M-Cn: Adam, I just got a message to come to the factory floor. Is something wrong?
+M-Au: There's a problem with the last few desks that came off the production line. Look at this one - the top surface of the desk is loose because no glue was applied from the machines.
+M-Cn: Carol - could you join us for a minute? Can you check the glue machines on your team's part of the assembly line? They probably need a refill.
+W-Am: OK. I'll shut them down and take a look. We should be back in service within an hour.
+M-Cn: Good. This afternoon at one o'clock, some prospective clients will be visiting. Everything needs to be running smoothly by then.
+
+47. Where most likely are the speakers?
+A. At a print shop
+> B. At a furniture factory
+C. At an appliance warehouse
+D. At a stationery store
+
+48. What problem do the men describe?
+A. A door has been left open.
+B. A delivery truck has been delayed.
+C. Some employees are out sick.
+> D. Some products are defective.
+
+49. What is scheduled to happen at one o'clock?
+> A. Some clients will visit.
+B. Some equipment will be cleaned.
+C. A training session will be conducted.
+D. An employee luncheon will be held.
