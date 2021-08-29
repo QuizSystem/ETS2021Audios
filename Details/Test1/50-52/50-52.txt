@@ -1,0 +1,25 @@
+50-52
+
+W-Br: Hi, Gerard. Just a reminder, all proposals for this year's technology conference have to be submitted by tomorrow.
+M-Cn: Yes, I know. I actually finished my proposal earlier today, but I haven't been able to upload it yet... I think the Web site's down for maintenance.
+W-Br: Oh, I had the same problem - the Web site's really busy. You just have to keep trying.
+M-Cn: In that case, I think I'll go to lunch first and try again when I get back. Would you like to join me?
+W-Br: Sure - let's go now.
+
+50. What did the man recently finish?
+> A. A conference proposal
+B. An agenda for a business trip
+C. A revision to a client database
+D. A review of some blueprints
+
+51. What problem does the man mention?
+A. Additional permits are needed.
+B. An expense was not approved.
+C. A supervisor is unavailable.
+> D. A Web site is not working.
+
+52. What will the speakers do next?
+A. Rehearse a presentation
+B. Print some documents
+> C. Go have lunch
+D. Call technical support
