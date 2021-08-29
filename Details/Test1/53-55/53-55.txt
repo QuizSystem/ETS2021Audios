@@ -1,0 +1,25 @@
+53-55
+
+M-Au: Hi, Emiko. Welcome to Essen Accounting. I'm Amal Hasan, from Human Resources. I'll show you around the office and introduce you to the rest of the accounting team.
+W-Am: Nice to meet you, Amal. Do you know if I'll get my permanent ID badge soon? I just have this temporary ID card, and this isn't the correct spelling of my name.
+M-Au: Well, you can use that ID to move through the building today, but we'll ask at the security desk later. Do you have any other questions before we start the tour?
+W-Am: Um, I thought I'd get copies of my employee anything yet. Is there something I should do?
+M-Au: Oh, it normally takes a few days.
+
+53. Who most likely is the woman?
+A. A safety inspector53
+B. An overseas client
+C. An athlete
+> D. An accountant
+
+54. What does the woman tell the man about her ID card?
+A. It is expired.
+B. It has the wrong photo.
+> C. Her name is misspelled.
+D. She forgot to bring it.
+
+55. Why does the man say, "it normally takes a few days"?
+A. To reject a request
+> B. To address a concern
+C. To complain about a delay
+D. To acknowledge an accomplishment
