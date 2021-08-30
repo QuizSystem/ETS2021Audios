@@ -1,0 +1,25 @@
+56-58
+
+W-Br: Hi, your company must be new to this technology trade show - I've been attending for years and I've never seen your booth.
+M-Au: You're right - we're a new start-up company... We've developed a voice-recognition software program. It understands spoken commands and can complete tasks.
+W-Br: Ah, I use a program like that. So... how's your program different from all the others?
+M-Au: It's the most advanced digital assistant on the market. Here - come and meet Antonio. He's our lead software developer.
+M-Cn: Hi, I'm Antonio. Here's a brochure. If you turn to the second page, there's an outline of the program's advanced features... You won't find those features anywhere else.
+
+56. What type of event are the speakers attending?
+> A. A trade show
+B. A new-hire orientation
+C. A celebrity interview
+D. A grand opening
+
+57. Where do the men work?
+A. At a mobile phone manufacturer
+> B. At a software development company
+C. At an appliance repair shop
+D. At an advertising agency
+
+58. What will the woman most likely do next?
+A. Exchange contact information
+B. Consult with a colleague
+C. Check a schedule
+> D. Look at a brochure
