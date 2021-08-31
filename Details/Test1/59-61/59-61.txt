@@ -1,0 +1,26 @@
+59-61
+
+M-Au: Noor! Exciting news! The company's board of directors chose our research project to receive additional funding.
+W-Br: Oh - that's great!
+M-Au: I know. So, let's hire a new research assistant - like we've been talking about.
+W-Br: Hmm, even with the extra money, our budget's going to be fairly limited.
+M-Au: But we need help cataloging all the data we're collecting... You know, we could offer some part-time hours to local university students.
+W-Br: You're right. I was on a project last year with some students, and they did a good job.
+
+59. Why is the man excited?
+A. He has been promoted.
+B. His vacation request was approved.
+C. A research article will be published.
+> D. A project will receive extra funding.
+
+60. What does the woman mean when she says, "our budget's going to be fairly limited"?
+A. The company's decision is not surprising.
+B. A fund-raiser should be organized.
+C. Some numbers need to be checked.
+> D. The man's suggestion may not work.
+
+61. What does the woman say about local students?
+> A. She has worked with them before.
+B. She is tutoring them in science.
+C. They are participating in a conference.
+D. They have mad several donations.
