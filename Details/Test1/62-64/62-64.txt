@@ -1,0 +1,28 @@
+62-64
+
+W-Am: Hi, I'm here to pick up a cake for the Frayton Company.
+M-Cn: Hmm. I don't see that name here. Maybe the cake was ordered under an individual's name? Uh... I have a Richard...
+W-Am: Oh, I'm not sure which of my coworkers ordered it, but it should have the number 25 on it.
+M-Cn: Oh, it must be this one.
+W-Am: Yeah, that's it. It's for our company's twenty-fifth anniversary celebration tonight. We're very excited.
+M-Cn: OK, your total is 40 dollars.
+W-Am: Can I use my phone to pay?
+M-Cn: Sorry, we're not set up for that service yet. It's just cash or credit card.
+
+62. Look at the graphic. Who placed the order the woman is picking up?
+A. Richard
+B. Alison
+> C. Tomas
+D. Janet
+
+63. What event does the woman mention?
+A. A client meeting
+B. A birthday party
+C. A retirement luncheon
+> D. An anniversary celebration
+
+64. What does the woman ask the man about?
+> A. A form of payment
+B. A delivery service
+C. A greeting card
+D. An ingredient
