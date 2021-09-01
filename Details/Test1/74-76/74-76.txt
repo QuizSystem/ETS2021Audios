@@ -1,0 +1,21 @@
+74-76
+
+W-Br: Hello, it's Lena. My flight's been delayed because of bad weather, and I'm stuck at the airport here in Vancouver. Anyway, I don't think I'll make it back to work tomorrow. The clients from Spain are coming in at two o'clock and I won't be able to meet with them. Fortunately for us, Paul lived in Spain for ten years. Could you stop by his office, explain the situation, and give him the client agenda?
+
+74. Where is the speaker?
+A. At a hotel
+B. At a travel agency
+C. On a train
+> D. In an airport
+
+75. What will happen at the company tomorrow?
+A. New furniture will arrive.
+> B. Some clients will visit.
+C. A new employee will be introduced.
+D. Some computer software will be updated.
+
+76. Why does the speaker say, "Paul lived in Spain for ten years"?
+> A. To recommend a colleague for a task
+B. To suggest a travel destination
+C. To express surprise about an anniversary date
+D. To correct a data-entry error
