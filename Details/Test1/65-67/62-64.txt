@@ -1,0 +1,27 @@
+65-67
+
+M-Cn: Hello, this is Samir from Rumsford Dental Clinic. I'm calling to confirm your appointment tomorrow at eight forty-five.
+W-Br: Oh no! I forgot... I have a meeting tomorrow morning at work. Can I reschedule for later in the day?
+M-Cn: Uh.. let's see... We have another opening at three in the afternoon.
+W-Br: That's perfect. What's your address again?
+M-Cn: Actually, we've moved since your last appointment. We're still on Blevin Road, but now we're at number 47, at the intersection with Shara Lane. You'll see a café across the street.
+W-Br: Great, thanks. I'll be there tomorrow.
+M-Cn: And please arrive ten minutes early so we can update your records.
+
+65. Why does the woman ask to reschedule her appointment?
+A. She has to have her car repaired.
+B. She is visiting a friend.
+> C. She has a business meeting.
+D. She needs to go to the bank.
+
+66. Look at the graphic. Where will the woman most likely go tomorrow?
+A. To location A
+> B. To location B
+C. To location C
+D. To location D
+
+67. What does the man ask the woman to do?
+A. Pay a fee in advance
+B. Register online
+C. Complete a survey
+> D. Come to an office early
