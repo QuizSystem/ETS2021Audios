@@ -1,0 +1,21 @@
+89-91
+
+W-Br: And in local news, here's a reminder from the Grantson Community Center about their fund-raising event this Saturday evening. The center is holding a comedy festival featuring some of the area's most well-known comedians. Proceeds from the event will help support the center's project to improve its building. They want to raise funds to paint colorful murals on the outside walls. So come on down and enjoy the show. The center's also looking for a few volunteers to help set up the sound equipment for the show. If you're able to help with that, please give them a call.
+
+89. Who will be featured at Saturday's event?
+A. Sculptors
+B. Musicians
+C. Authors
+> D. Comedians
+
+90. What is money being raised for?
+A. An after-school program
+B. A sports tournament
+> C. A building improvement project
+D. A health clinic
+
+91. Why are volunteers needed?
+> A. To set up equipment
+B. To sell tickets
+C. To donate food
+D. To direct traffic
