@@ -1,0 +1,26 @@
+32-34
+
+W-Br: Good morning. I'd like to check out - I was in room 205. Here's my room key.
+M-Cn: Certainly. I'll just print out a copy of the charges that'll be billed to your credit card... All right, here it is. I hope you enjoyed your stay.
+W-Br: Yes - it was great to have a room right in the downtown area. Oh wait, I didn't order any room service last night, but there's a charge for it here.
+M-Cn: I'm very sorry about that. I can fix that and print a new bill for you.
+W-Br: Actually, I need to get to the airport. My flight leaves in an hour. Can you e-mail it to me?
+M-Cn: Absolutely. Have a good flight.
+
+32. Where is the conversation most likely taking place?
+A. At a supermarket
+> B. At a hotel
+C. At an auto shop
+D. At a travel agency
+
+33. What problem does the woman mention?
+> A. A bill is not correct.
+B. A repair is not finished.
+C. A reservation was not available.
+D. A staff member was not polite.
+
+34. Where will the woman go next?
+A. To a client's office
+> B. To the airport
+C. To a shopping center
+D. To a museum
