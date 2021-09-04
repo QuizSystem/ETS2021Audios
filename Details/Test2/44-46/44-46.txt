@@ -1,0 +1,26 @@
+44-46
+
+W-Am: Hello. I'm Sunita Bhargava. I'll be your truck driving instructor. To get started, why don't you introduce yourselves?
+M-Cn: Hi, I'm Hans. I like driving, so I think being a truck driver would be a job I'd enjoy.
+M-Au: Hi, I'm Kentaro. I'm here because I want a career change.
+W-Am: Nice to meet you both. First, you should know that trucks get inspected regularly. So today, we'll go over how to prepare a truck for an inspection. Do you have a question, Hans?
+M-Cn: Yes - is there a checklist we could use?
+W-Am: Yes, I'm going to give you that right now.
+
+44. What are the men training to become?
+> A. Truck drivers
+B. Airplane mechanics
+C. Electricians
+D. Plumbers
+
+45. What will the men learn to do today?
+A. Repair equipment
+B. Read blueprints
+C. Use software to create invoices
+> D. Prepare for an inspection
+
+46. What does the woman say she will provide?
+> A. A checklist
+B. A password
+C. A meal voucher
+D. A tool kit
