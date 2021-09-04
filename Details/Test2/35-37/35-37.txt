@@ -1,0 +1,29 @@
+35-37
+
+M-Cn: Good morning, Allston Mechanical, this is Pierre speaking.
+W-Am: Hi, this is Luisa. I'm calling from Truman Power Tools.
+M-Cn: Oh, you ordered machine parts from us, right?
+W-Am: Right, components for our new electric drill.
+M-Cn: Were you satisfied with them?
+W-Am: Yeah, they were great. We were really happy with how the drill performed in the product tests.
+M-Cn: Glad to hear it. So are you ready to start production?
+W-Am: That's why I'm calling. We're ready to move to full production, so we're going to need a large order of those parts. Could you tell me about your bulk discounts?
+M-Cn: Sure. Hold on while I get you the details.
+
+35- What did the woman order from the man's company?
+> A. Machine parts
+B. Cleaning supplies
+C. Some tickets
+D. Some computers
+
+36- Why is the woman pleased?
+A. Some service fees have deceased.
+> B. Some product tests were successful.
+C. A musical performance has been scheduled.
+D. A business competitor has left the industry.
+
+37- What does the woman ask about?
+A. The date of a delivery
+B. The size of a venue
+C. Business hours
+> D. Discounts on an order
