@@ -1,0 +1,24 @@
+47-49
+
+M-Au: Isabel, I noticed that we're scheduled to give our seminar in the company cafeteria. Isn't the third-floor conference room available?
+W-Br: That conference room isn't large enough. Almost 50 people have signed up so far, and we're expecting even more.
+M-Au: That's good news, but I listened to a guest speaker in the cafeteria a few weeks ago and I couldn't hear what she was saying. Even with the microphone, the sound just didn't travel well in that room.
+W-Br: Now that you mention it, I've had that experience as well. Let me ask the tech department director if he has any suggestions for improving the sound.
+
+47. Why are the speakers unable to use a conference room?
+> A. It is not large enough.
+B. It is being remodeled.
+C. It does not have a projector.
+D. It has already been reserved.
+
+48. What does the man say is a problem with the cafeteria?
+A. The seats are uncomfortable.
+B. The menu is limited.
+> C. The sound quality is poor.
+D. The checkout lines are long.
+
+49. Why does the woman want to contact a colleague?
+> A. To ask for a suggestion
+B. To decline an invitation
+C. To discuss a budget
+D. To revise a presentation 
