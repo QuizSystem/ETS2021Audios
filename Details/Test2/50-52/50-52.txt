@@ -1,0 +1,23 @@
+50-52
+
+W-Br: David, the automated shipping system just sent me an alert that you requested 100 laptop chargers from the shipping floor here at the warehouse. What's going on? Is there a problem?
+M-Cn: The store in West Springfield just called. Each box is supposed to contain a laptop and a charger. Unfortunately, some of the boxes we shipped from this warehouse are missing the chargers. We need to ship new ones out as soon as possible.
+W-Br: OK. Thanks for taking care of that so quickly. Could you pull up the packaging reports for that shipment? I want to take a look at them, so we don't make that mistake again.
+
+50. Where does the conversation take place?
+A. At an appliance store
+B. At a technical support company
+> C. At a warehouse
+D. At a supermarket
+
+51. According to the man, what is the problem?
+> A. Some items are missing from a shipment.
+B. Some workers are on vacation.
+C. A project deadline has passed.
+D. A business address war incorrect.
+
+52. What does the woman want to do?
+A. Develop an employee handbook
+B. Ask some volunteers to work overtime
+C. Request a deadline extension
+> D. Review some recent reports
