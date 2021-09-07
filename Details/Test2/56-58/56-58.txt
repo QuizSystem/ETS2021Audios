@@ -1,0 +1,24 @@
+56-58
+
+M-Au: Good afternoon, I reserved a seat online on the two o'clock train to Manchester. I'm trying to print my ticket at this machine, but it's not working and my train's departing soon.
+W-Am: All right, it looks like the machine's out of paper. This is Nadia, my associate. If you'll follow her, she will print the ticket for you at the counter.
+W-Br: Hi - sorry for the inconvenience. I just need to see the credit card you used to pay for your ticket.
+M-Au: Sure, here you are.
+
+56. Where does the conversation most likely take place?
+A. At a concert
+B. At an airport
+C. At a movie theater
+> D. At a train station
+
+57. What is the problem with the machine?
+> A. It is out of paper.
+B. It is for members only.
+C. It does not accept cash.
+D. It needs a new cable.
+
+58. What does Nadia ask the man for?
+A. Photo identification
+B. A luggage tag
+> C. A credit card
+D. A receipt
