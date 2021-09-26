@@ -1,0 +1,24 @@
+38-40
+
+W-Br: Taro, can I have a word with you? One of your employees, Dan Howell, visited me in Human Resources today to let me know he'd be leaving his position as Training Coordinator.
+M-Au: Oh, yes, Dan. He'll be retiring in six months. I'm glad he gave you advance notice.
+W-Br: I am, too. However, I wanted to ask if you'd like me to look into hiring a new employee to replace him.
+M-Au: You know, our current staff is pretty well trained at the moment. Dan's sessions have been very effective. So, for the time being, we won't need to replace him.
+
+38. Which department does the woman work in?
+A. Logistics
+B. Marketing
+C. Quality Assurance
+> D. Human Resources
+
+39. What will happen in six months?
+A. A company will merge with another.
+> B. An employee will retire.
+C. A campaign will be launched.
+D. A branch will open abroad.
+
+40. Why does the man decline the woman's offer?
+A. There is not enough money for a project.
+B. There are no free days on the calendar.
+> C. Current employees have been fully trained.
+D. A consultant has been hired to advise the department.
