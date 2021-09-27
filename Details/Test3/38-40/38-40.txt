@@ -1,24 +1,23 @@
 38-40
 
-W-Br: Taro, can I have a word with you? One of your employees, Dan Howell, visited me in Human Resources today to let me know he'd be leaving his position as Training Coordinator.
-M-Au: Oh, yes, Dan. He'll be retiring in six months. I'm glad he gave you advance notice.
-W-Br: I am, too. However, I wanted to ask if you'd like me to look into hiring a new employee to replace him.
-M-Au: You know, our current staff is pretty well trained at the moment. Dan's sessions have been very effective. So, for the time being, we won't need to replace him.
+W-Br: Takumi, I'm planning to attend the company health fair on Monday. Would you be interested in going together?
+M-Au: Oh, I'm on vacation next week. I did go last year - it was really great. I learned some exercises and stretches that are helpful for office workers like us. I still do them every day.
+W-Br: Oh - hopefully they'll have that presentation again... My back often aches after sitting at my desk all day. It would be nice to learn some techniques to make my back feel better.
 
-38. Which department does the woman work in?
-A. Logistics
-B. Marketing
-C. Quality Assurance
-> D. Human Resources
+38. What are the speakers discussing?
+A. A fund-raiser
+> B. A health fair
+C. A facility tour
+D. A business trip
 
-39. What will happen in six months?
-A. A company will merge with another.
-> B. An employee will retire.
-C. A campaign will be launched.
-D. A branch will open abroad.
+39. Why does the man say, "I'm on vacation next week"?
+A. To request assistance
+B. To correct a time frame
+C. To express excitement
+> D. To decline an invitation
 
-40. Why does the man decline the woman's offer?
-A. There is not enough money for a project.
-B. There are no free days on the calendar.
-> C. Current employees have been fully trained.
-D. A consultant has been hired to advise the department.
+40. What does the woman complain about?
+A. Poor lighting
+B. Small desks
+> C. Back pain
+D. Loud noise
