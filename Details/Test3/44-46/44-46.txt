@@ -1,0 +1,26 @@
+44-46
+
+M-Au: Hello. Simone Ito?
+W-Br: Yes, hi.
+M-Au: I'm Daniel Baxter - a video game designer at Full-Tale Games. I'd love to have you compose the music for the new action game I'm making. The soundtrack for Lost Elemental was incredible.
+W-Br: Thanks. Tell me a little about your game.
+M-Au Well, it's about an adventurer who finds the key to a mysterious castle in the mountains. But what's in the castle, no one knows...
+W-Br: Sounds intriguing. I'm interested in working on this. Can I look at some storyboards you have made? That would give me a better sense of what I could bring to the project.
+
+44. Who most likely is the woman?
+A. A movie producer
+> B. A music composer
+C. A sports journalist
+D. A locksmith
+
+45. What project is the man working on?
+> A. A video game
+B. A travel book
+C. A feature film
+D. A theme park attraction
+
+46. What does the woman ask to see?
+A. A blueprint
+B. Some area maps
+> C. Some storyboards
+D. A cast list
