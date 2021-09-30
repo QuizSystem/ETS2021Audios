@@ -1,0 +1,25 @@
+53-55
+
+W-Am: Hello, Springvale Zoo.
+M-Au: Hi, I'm having my daughter's birthday party at your zoo next Saturday. I've reserved the party room, but I wondered if there's a limit to the number of guests I can invite to join us in the room.
+W-Am: Actually, yes, there's a limit of 25 guests in the party room.
+M-Au: Oh, that should be fine, thanks. Also, I heard an interview with the director of your zoo on the radio. She mentioned that you give presentations about different animals.
+W-Am: Yes, we have an animal education program. For an extra fee, one of our zoologists can give a talk about our endangered animals before the children visit the zoo.
+
+53. Why is the man calling?
+A. To arrange for a delivery
+> B. To inquire about a reservation
+C. To request directions to an event
+D. To ask about a job opening
+
+54. What does the man say he heard on the radio?
+A. A weather report
+B. A discount code
+> C. An interview
+D. A customer review
+
+55. According to the woman, what requires an additional fee?
+A. A credit card payment
+B. Online submissions
+C. A special menu option
+> D. An educational talk
