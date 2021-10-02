@@ -1,21 +1,21 @@
 92-94
 
-M-Cn: Hello, everyone. I just spoke with management and they confirmed that there will be a reduction in company spending for the next quarter. So we can't replace all of the equipment that we'd hoped to. That means we need to make some choices. Well, you know... We have had the computers on the first floor for a very long time. But what do you think? Send me an e-mail with your recommendations by the end of the day. I planned to make the final decision this afternoon, but I need to travel to New York for an important meeting. I'll decide tomorrow.
+W-Am: The next agenda item in today's employee orientation is to show you the protocols for how to deal with our company's classified materials. You're joining our patent law firm, and we have a responsibility to protect our legal clients' proprietary information. Everyone who works here needs to be trained on the security procedures. In a few minutes, I'll begin by explaining specifically what kinds of information we need to keep private, and then I'll show you the methods used to secure that data. But before we begin, we've already covered a lot of topics about working here, and I think we could all use a short break. Please be back in the room in ten minutes.
 
-92. According to the speaker, what has management announced?
-> A. A budget reduction
-B. A sales goal
-C. A business relocation
-D. A hiring initiative
+92. Where do the listeners work?
+A. At a bank
+B. At a newspaper
+> C. At a law firm
+D. At a software company
 
-93. Why does the speaker say, "we have had the computers on the first floor for a very long time"?
-> A. To make a recommendation
-B. To compliment a decision
-C. To criticize another department
-D. To apologize for an error
+93. Why does the speaker say, "Everyone who works here needs to be trained on the security procedures"?
+A. To suggest revising a rule
+> B. To emphasize the importance of a topic
+C. To volunteer for an assignment
+D. TO complain about a meeting agenda
 
-94. What reasons does the speaker give for a delay?
-A. He needs to get permission from a supervisor.
-> B. He has to travel for business.
-C. Some equipment is not available.
-D. There was a mistake in some directions.
+94. What will the listeners do next?
+> A. Take a break
+B. Watch a video
+C. Tour a facility
+D. Work in groups

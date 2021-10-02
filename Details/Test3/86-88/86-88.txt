@@ -1,21 +1,21 @@
 86-88
 
-M-Au: Hello, listeners of WJHA radio station. Are you looking for a new full- or part-time job? If so, consider working at Siskin Fashions, a leading clothing manufacturing company. We've just opened a second factory here in Grove City, so now we have quite a few open positions. We have to hire seven machine operators and site managers by the end of the month. Interviews are being conducted now. For more details, go to www.siskinfashions.com. You'll be glad you did!
+M-Au: Good morning. We're glad you could all make it to the National Home Appliances Trade Show. In our exhibit, KLT Appliances is proud to introduce an exciting product for you to carry in your stores. Our Ultra Wash model is the first washing machine to feature two separate washing compartments for different types of fabrics, so customers can do two loads of laundry at once. This will be appealing to customers, since it means they won't have to spend as much time returning to the washer to reload it. Currently, this model comes in silver; however, soon a greater variety of color choices will be available.
 
-86. What type of company is being advertised?
-A. An electronics store
-B. A construction firm
-> C. A clothing manufacturer
-D. A movie theater
+86. Where is the introduction taking place?
+> A. At a trade show
+B. At a home goods store
+C. At an awards ceremony
+D. At a supermarket
 
-87. According to the speaker, what has the company recently done?
-> A. It has opened another factory.
-B. It has merged with another company.
-C. It has changed its logo.
-D. It has won many awards.
+87. What does the speaker say customers will like about a product?
+A. It is made from a lightweight material.
+> B. It will save time.
+C. It will fit in small spaces.
+D. It is easy to assemble.
 
-88. Why does the speaker say, "Interviews are being conducted now"?
-A. To show surprise
-B. To remind listeners about a radio program
-C. To correct a scheduling mistake
-> D. To express urgency
+88. According to the speaker, what will be offered soon?
+A. A discount
+B. Free delivery
+> C. Additional color options
+D. An extended warranty
