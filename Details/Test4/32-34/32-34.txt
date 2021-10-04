@@ -1,0 +1,25 @@
+32-34
+
+M-Cn: Hello, Ryerson Fitness Center. How can I help you?
+W-Am: Yes, I'm wondering what your fitness center has to offer. I just changed jobs, and my new office is near your center.
+M-Cn: We have exercise equipment, aerobics classes, and a pool. And we also offer sessions with personal trainers.
+W-Am: That sounds great. Can I come in to see your center?
+M-Cn: Sure. I'd be happy to arrange a tour for you. Just let me know when you'd like to come.
+
+32. Where does the man work?
+A. At a travel agency
+> B. At a fitness center
+C. At a sports stadium
+D. At a hotel
+
+33. What does the woman say she recently did?
+A. She read a review.
+> B. She changed jobs.
+C. She attended a conference.
+D. She received a gift certificate.
+
+34. What does the man offer to do?
+> A. Arrange a tour
+B. Update a reservation
+C. Provide a meal voucher
+D. Change a seat assignment

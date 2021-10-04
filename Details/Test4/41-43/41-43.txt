@@ -1,0 +1,24 @@
+41-43
+
+M-Cn: Hi, I live in apartment 3B, and I'm calling about the kitchen sink. It started leaking yesterday. I'd like to put in a service request to have it fixed.
+W-Br: OK, Stefan can fix that - he can be at your place within an hour. Does that work with your schedule?
+M-Cn: I guess I could wait for him to come. I didn't realize I had to be here during the repair.
+W-Br: Yes, you do - it's the apartment complex's policy that all maintenance work has to be done while the tenant is present. Plus, that way you'll be able to show Stefan exactly what the problem is.
+
+41. Why is the man calling?
+> A. To request a repair
+B. To pay a utility bill
+C. To reserve a car
+D. To cancel an appointment
+
+42. Who most likely is Stefan?
+A. A real estate agent
+B. A salesperson
+> C. A maintenance worker
+D. A delivery person
+
+43. What policy does the woman mention?
+> A. Residents must be home for appointments.
+B. Deliveries must be signed for in person.
+C. Vehicles must be parked in a designated area.
+D. Service fees must be paid online.
