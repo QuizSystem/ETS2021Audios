@@ -1,25 +1,25 @@
 50-52
 
-W-Br: Good morning, Tushar. Have you seen the marketing report for our furniture business?
-M-Cn: Not yet. How do the data look? Did we get a profile of who's shopping at our stores?
-W-Br: Yes. Clearly, we're really popular with older adults, but younger shoppers are going somewhere else.
-M-Cn: I think improving the online shopping experience with a better Web site would appeal more to a younger demographic.
-W-Br: That's a good idea, but we might need to bring in an outside consultant for a short-term project like that.
+W-Am Antonio, good news! The network renewed our television series for another season. And they want me to lead the writing team again.
+M-Cn That’s wonderful! I’ll get the rest of the team together. We should get started as soon as possible.
+W-Am Oh, wait… Dolores took a new job in postproduction a couple of weeks ago, remember? I guess we’ll need to hire another writer.
+M-Cn We should check some of the writing samples we have on file.
+W-Am OK. Let’s start reviewing those sample scripts this afternoon.
 
-50. What information are the speakers discussing?
-A. Shipping dates
-B. Product specifications
-> C. Marketing data
-D. Business expenses
+50. What industry do the speakers most likely work in?
+(A) Publishing
+(B) Fashion
+(C) Music
+(D) Television
 
-51. What does the man suggest?
-> A. Improving a Web site
-B. Running an advertisement
-C. Cutting a budget
-D. Organizing a focus group
+51. What problem does the woman mention?
+(A) A budget has been reduced.
+(B) A holiday is coming up.
+(C) A team member left for another job.
+(D) Some equipment is unavailable.
 
-52. What does the woman say might be necessary?
-A. Reorganizing a department
-> B. Hiring a consultant
-C. Getting a manager's approval
-D. Extending a project deadline
+52. What do the speakers plan to do this afternoon?
+(A) Postpone a performance
+(B) Review some writing samples
+(C) Meet with a talent agent
+(D) Reserve a work space

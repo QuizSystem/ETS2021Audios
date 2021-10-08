@@ -1,25 +1,26 @@
 35-37
 
-M-Cn: Welcome to Tia Pottery. Can I help you find something?
-W-Br: Hi. I'd like to purchase a gift for a colleague. She's retiring next month, and she really liked a vase we saw here before. I don't see it here today though.
-M-Cn: Let me introduce you to Dmitry, one of our featured potters this month. If you're interested, he could make something for your colleague.
-M-Au: Hi, I'm Dmitry. I have a catalog here with some examples of my work.
-W-Br: That'd be great. I'll take a look. And I'll be sure to tell her that the gift was custom-made!
+M-Au This is the information desk, right?
+W-Am Yes – do you need help finding your train platform?
+M-Au No, my train doesn’t leave for another five hours. I was wondering if there are lockers in the station where I could store my luggage. I’d like to visit some tourist sites while I’m here, but my suitcase is really heavy. I don’t want to bring it along.
+W-Am Unfortunately, we don’t offer that service. But the hotel across the street will keep your luggage in a secure room. They charge five dollars per hour, though.
+M-Au That sounds perfect. You said the hotel is right across the street?
+W-Am Yes-just go through those doors.
 
-35- Where does the conversation take place?
-A. At a museum
-> B. At a pottery shop
-C. At a bookstore
-D. At a flower s35-37hop
+35. Where does the conversation most likely take place?
+(A) At a rental car agency
+(B) At a shopping mall
+(C) At a concert hall
+(D) At a train station
 
-36- Why is the woman purchasing a gift?
-A. A supervisor won an award.
-B. A coworker received a promotion.
-C. A friend is moving into a new home.
-> D. A colleague is retiring.
+36. What does the man inquire about?
+(A) Storing some luggage
+(B) Purchasing a ticket
+(C) Accessing the Internet
+(D) Finding a bus stop
 
-37- What is the woman going to look at?
-A. An order form
-B. A Web site
-> C. A catalog
-D. A calendar
+37. What will the man most likely do next?
+(A) Print a receipt
+(B) Go to a hotel
+(C) Make a telephone call
+(D) Purchase some souvenirs

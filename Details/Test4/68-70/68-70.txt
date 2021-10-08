@@ -1,27 +1,24 @@
 68-70
 
-M-Au: Hi, Mei Na. I'm calling to update you on William Thompson, the new math teacher we just hired.
-W-Br: Right - he'll be teaching our online classes. We agreed to wire his first paycheck in advance, right?
-M-Au: Yeah, so he can upgrade his computer before the job starts. And that's what I wanted to talk to you about.
-W-Br: OK.
-M-Au: The wire transfer was supposed to be made on Friday, but there was a problem.
-W-Br: What's that?
-M-Au: Accounting was given the wrong information for his bank. We had the name of the bank spelled wrong. We corrected it, but not in time to make the transfer until this morning.
+W-Am Oh, hello Duncan. Is that the new coffee maker for our office break room?
+M-Cn Yes, it is. This model uses a lot less energy. With all the coffee we drink, we’ll save money on electricity.
+W-Am That model looks bigger than I expected-much bigger than the old one. I’m worried there won’t be enough counter space for it. Are you going to put it next to the refrigerator?
+M-Cn No, I think there’s more space next to the microwave-let’s put it there instead.
 
-68. What has William Thompson been hired to do?
-(A) Create a database
-(B) Repair electronic devices
-> (C) Teach online classes
-(D) Make travel arrangements
+68. What does the man say about the appliance?
+(A) It is energy efficient.
+(B) It has an automatic timer.
+(C) It is lightweight.
+(D) It was inexpensive.
 
-69. What does Mr. Thompson want to do before starting the job?
-(A) Go on vacation
-(B) Take a certification course
-(C) Find a new apartment
-> (D) Upgrade some equipment
+69. What concern does the woman have about the appliance?
+(A) She thinks it will be difficult to use.
+(B) She does not like the color.
+(C) It was not approved by a supervisor.
+(D) It is larger than expected.
 
-70. Look at the graphic. Which line of the form was corrected?
-> (A) Line 1
-(B) Line 2
-(C) Line 3
-(D) Line 4
+70. Look at the graphic. Where does the man plan to put the appliance?
+(A) At Location #1
+(B) At Location #2
+(C) At Location #3
+(D) At Location #4

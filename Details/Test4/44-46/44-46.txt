@@ -1,26 +1,26 @@
 44-46
 
-M-Au: Hello. Simone Ito?
-W-Br: Yes, hi.
-M-Au: I'm Daniel Baxter - a video game designer at Full-Tale Games. I'd love to have you compose the music for the new action game I'm making. The soundtrack for Lost Elemental was incredible.
-W-Br: Thanks. Tell me a little about your game.
-M-Au Well, it's about an adventurer who finds the key to a mysterious castle in the mountains. But what's in the castle, no one knows...
-W-Br: Sounds intriguing. I'm interested in working on this. Can I look at some storyboards you have made? That would give me a better sense of what I could bring to the project.
+M-Au I’m almost finished with the catering order. Could you look it over? There should be enough food for all our attendees.
+W-Am Of course. About twelve of our investors are attending the presentation, right?
+W-Aus Yes.
+W-Am OK, then. This should be plenty. You know, I’ve heard many of the investors coming are excited about the chance to finally test-drive our new electric cars and ride in our latest driverless vehicle.
+M-Au That’ll be a highlight of the event.
+W-Am Next is finalizing a rehearsal schedule for all the presenters. l’ll talk to the CEO and the other presenters about their availability to do a practice run.
 
-44. Who most likely is the woman?
-A. A movie producer
-> B. A music composer
-C. A sports journalist
-D. A locksmith
+44. What are the speakers preparing for?
+(A) An awards ceremony
+(B) An automobile show
+(C) A presentation for investors
+(D) A fund-raiser for charities
 
-45. What project is the man working on?
-> A. A video game
-B. A travel book
-C. A feature film
-D. A theme park attraction
+45. According to the woman, what are the attendees excited about?
+(A) Meeting a celebrity guest
+(B) Receiving a special gift
+(C) Visiting a unique venue
+(D) Trying out some vehicles
 
-46. What does the woman ask to see?
-A. A blueprint
-B. Some area maps
-> C. Some storyboards
-D. A cast list
+46. What does the woman say she will do?
+(A) Communicate with some presenters
+(B) Print out some programs
+(C) Pick up some protective gear
+(D) Check on some equipment

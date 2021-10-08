@@ -1,25 +1,27 @@
 53-55
 
-W-Am: Hello, Springvale Zoo.
-M-Au: Hi, I'm having my daughter's birthday party at your zoo next Saturday. I've reserved the party room, but I wondered if there's a limit to the number of guests I can invite to join us in the room.
-W-Am: Actually, yes, there's a limit of 25 guests in the party room.
-M-Au: Oh, that should be fine, thanks. Also, I heard an interview with the director of your zoo on the radio. She mentioned that you give presentations about different animals.
-W-Am: Yes, we have an animal education program. For an extra fee, one of our zoologists can give a talk about our endangered animals before the children visit the zoo.
+M-Au Hi. It’s Peter Wang, calling from the Research and Development department.
+W-Am Hi, Peter. How can I help you?
+M-Au I’m organizing a mentorship program where our senior engineers will meet with new hires once a week and give them advice.
+W-Am That sounds like a great idea.
+M-Au I know you keep the new employees’ résumés over there at Human Resources. Could you e-mail them to me? I want to match the new engineers with mentors.
+W-Am Actually, the résumés are all posted on our company’s internal Web site.
+M-Au Oh, I didn’t know that. Thanks.
 
-53. Why is the man calling?
-A. To arrange for a delivery
-> B. To inquire about a reservation
-C. To request directions to an event
-D. To ask about a job opening
+53. Which department is the man calling from?
+(A) Finance
+(B) Customer Service
+(C) Research and Development
+(D) Sales
 
-54. What does the man say he heard on the radio?
-A. A weather report
-B. A discount code
-> C. An interview
-D. A customer review
+54. What is the man working on?
+(A) A mentorship program
+(B) A career fair
+(C) A training session
+(D) An online professional network
 
-55. According to the woman, what requires an additional fee?
-A. A credit card payment
-B. Online submissions
-C. A special menu option
-> D. An educational talk
+55. What does the woman mean when she says, “the résumés are all posted on our company’s internal Web site”?
+(A) She has met a deadline.
+(B) She cannot find a certain file.
+(C) The man can complete a task himself.
+(D) The man is a reliable employee.
