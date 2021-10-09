@@ -1,19 +1,19 @@
 32-34
 
-W-Br Welcome to Shana’s Gym! Do you have your member card?
-M-Cn I’m actually not a member yet. I’m new to the area, and I’m trying to decide on a gym to join.
-W-Br Well, welcome to town! We actually offer a weeklong free trial period for first-time customers. That way you can see if you like the gym before you sign a contract.
-M-Cn That sounds perfect! Does the free trial include the fitness classes?
-W-Br During your trial week you can take one class free of charge. Here’s the schedule of classes for this week.
+W-Br: Welcome to Shana's Gym! Do you have your member card?
+M-Cn: I'm actually not a member yet. I'm new to the area, and I'm trying to decide on a gym to join.
+W-Br: Well, welcome to town! We actually offer a weeklong free trial period for first-time customers. That way you can see if you like the gym before you sign a contract.
+M-Cn: That sounds perfect! Does the free trial include the fitness classes?
+W-Br: During your trial week you can take one class free of charge. Here's the schedule of classes for this week.
 
 32. What did the man recently do?
 (A) He changed his diet.
-(B) He moved to a new town.
+> (B) He moved to a new town.
 (C) He won a sports competition.
 (D) He opened a business.
 
 33. What are the speakers mainly discussing?
-(A) A free trial period
+> (A) A free trial period
 (B) Customer reviews
 (C) Job qualifications
 (D) A certification course
@@ -21,5 +21,5 @@ W-Br During your trial week you can take one class free of charge. Here’s the 
 34. What does the woman give to the man?
 (A) A coupon
 (B) A map
-(C) A schedule
+> (C) A schedule
 (D) A form

@@ -1,21 +1,21 @@
 41-43
 
-M-Cn Hi, Azusa. Do you have a minute?
-W-Br Sure, what is it?
-M-Cn Well, I was wondering if I could switch offices.
-W-Br Sure. Which office are you interested in?
-M-Cn Pierre was transferred to the Lakeville branch months ago and his former office is a lot bigger than mine. It’d be better for hosting clients.
-W-Br That makes sense. Submit the request on our internal Web site, and our administrative team will process it when they can.
-M-Cn Thanks! I’ll do that now.
+M-Cn: Hi, Azusa. Do you have a minute?
+W-Br: Sure, what is it?
+M-Cn: Well, I was wondering if I could switch offices.
+W-Br: Sure. Which office are you interested in?
+M-Cn: Pierre was transferred to the Lakeville branch months ago and his former office is a lot bigger than mine. It'd be better for hosting clients.
+W-Br: That makes sense. Submit the request on our internal Web site, and our administrative team will process it when they can.
+M-Cn: Thanks! I'll do that now.
 
 41. What does the man want to do?
-(A) Change offices
+> (A) Change offices
 (B) Apply for a position
 (C) Revise a policy
 (D) Hire more employees
 
 42. Why is Pierre no longer working at the office?
-(A) He has been transferred to a new branch.
+> (A) He has been transferred to a new branch.
 (B) He has entered a university program.
 (C) He is taking an extended vacation.
 (D) He is opening his own business.
@@ -24,4 +24,4 @@ M-Cn Thanks! I’ll do that now.
 (A) Gather some feedback
 (B) Pack some boxes
 (C) Speak to a receptionist
-(D) Submit an online request
+> (D) Submit an online request

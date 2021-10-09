@@ -1,26 +1,26 @@
 44-46
 
-M-Au I’m almost finished with the catering order. Could you look it over? There should be enough food for all our attendees.
-W-Am Of course. About twelve of our investors are attending the presentation, right?
-W-Aus Yes.
-W-Am OK, then. This should be plenty. You know, I’ve heard many of the investors coming are excited about the chance to finally test-drive our new electric cars and ride in our latest driverless vehicle.
-M-Au That’ll be a highlight of the event.
-W-Am Next is finalizing a rehearsal schedule for all the presenters. l’ll talk to the CEO and the other presenters about their availability to do a practice run.
+M-Au: I'm almost finished with the catering order. Could you look it over? There should be enough food for all our attendees.
+W-Am: Of course. About twelve of our investors are attending the presentation, right?
+W-Au: Yes.
+W-Am: OK, then. This should be plenty. You know, I've heard many of the investors coming are excited about the chance to finally test-drive our new electric cars and ride in our latest driverless vehicle.
+M-Au: That'll be a highlight of the event.
+W-Am: Next is finalizing a rehearsal schedule for all the presenters. I'll talk to the CEO and the other presenters about their availability to do a practice run.
 
 44. What are the speakers preparing for?
 (A) An awards ceremony
 (B) An automobile show
-(C) A presentation for investors
+> (C) A presentation for investors
 (D) A fund-raiser for charities
 
 45. According to the woman, what are the attendees excited about?
 (A) Meeting a celebrity guest
 (B) Receiving a special gift
 (C) Visiting a unique venue
-(D) Trying out some vehicles
+> (D) Trying out some vehicles
 
 46. What does the woman say she will do?
-(A) Communicate with some presenters
+> (A) Communicate with some presenters
 (B) Print out some programs
 (C) Pick up some protective gear
 (D) Check on some equipment

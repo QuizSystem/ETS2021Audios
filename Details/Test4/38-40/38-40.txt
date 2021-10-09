@@ -1,25 +1,25 @@
 38-40
 
-W-Br Hi, Ravi. Our customers have become more environmentally conscious… and they really don’t like that we put our beverages in plastic bottles. We should consider switching to glass soda bottles instead.
-M-Au Hmm… we would need to purchase all new machinery, and that’s a big investment.
-W-Br Right. We would need new machinery, but now that our soda brand’s become so popular, I think we might be able to afford it.
-M-Au That’s true. We should bring it up to the management team.
-W-Br l’ll put together a proposal. I’ll need a few days to do it though.
+W-Br: Hi, Ravi. Our customers have become more environmentally conscious... and they really don't like that we put our beverages in plastic bottles. We should consider switching to glass soda bottles instead.
+M-Au: Hmm... we would need to purchase all new machinery, and that's a big investment.
+W-Br: Right. We would need new machinery, but now that our soda brand's become so popular, I think we might be able to afford it.
+M-Au: That’s true. We should bring it up to the management team.
+W-Br: I'll put together a proposal. I’ll need a few days to do it though.
 
-38. What does the speakers’ company produce?
+38. What does the speakers' company produce?
 (A) Baked goods
 (B) Frozen meals
 (C) Spices
-(D) Beverages
+> (D) Beverages
 
 39. What is the man concerned about?
 (A) The availability of a vendor
-(B) The cost of some machinery
+> (B) The cost of some machinery
 (C) The location of a business
 (D) The quality of a product
 
 40. What does the woman say she will do?
-(A) Write a proposal
+> (A) Write a proposal
 (B) Print a schedule
 (C) Order some supplies
 (D) Provide some samples

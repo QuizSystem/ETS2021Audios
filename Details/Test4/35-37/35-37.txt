@@ -1,26 +1,26 @@
 35-37
 
-M-Au This is the information desk, right?
-W-Am Yes – do you need help finding your train platform?
-M-Au No, my train doesn’t leave for another five hours. I was wondering if there are lockers in the station where I could store my luggage. I’d like to visit some tourist sites while I’m here, but my suitcase is really heavy. I don’t want to bring it along.
-W-Am Unfortunately, we don’t offer that service. But the hotel across the street will keep your luggage in a secure room. They charge five dollars per hour, though.
-M-Au That sounds perfect. You said the hotel is right across the street?
-W-Am Yes-just go through those doors.
+M-Au: This is the information desk, right?
+W-Am: Yes – do you need help finding your train platform?
+M-Au: No, my train doesn't leave for another five hours. I was wondering if there are lockers in the station where I could store my luggage. I'd like to visit some tourist sites while I'm here, but my suitcase is really heavy. I don't want to bring it along.
+W-Am: Unfortunately, we don't offer that service. But the hotel across the street will keep your luggage in a secure room. They charge five dollars per hour, though.
+M-Au: That sounds perfect. You said the hotel is right across the street?
+W-Am: Yes - just go through those doors.
 
 35. Where does the conversation most likely take place?
 (A) At a rental car agency
 (B) At a shopping mall
 (C) At a concert hall
-(D) At a train station
+> (D) At a train station
 
 36. What does the man inquire about?
-(A) Storing some luggage
+> (A) Storing some luggage
 (B) Purchasing a ticket
 (C) Accessing the Internet
 (D) Finding a bus stop
 
 37. What will the man most likely do next?
 (A) Print a receipt
-(B) Go to a hotel
+> (B) Go to a hotel
 (C) Make a telephone call
 (D) Purchase some souvenirs
