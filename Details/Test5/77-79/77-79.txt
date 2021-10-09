@@ -1,0 +1,19 @@
+M-Au: Welcome to your new job in the Wilson Call Center. I'm Adam Baxter, the supervisor of the customer service team, and today I'll be training you on the basics. So, on the job, you'll receive a lot of calls from our customers about our products. To prepare you to respond effectively, I've passed out a list of the twenty most common questions they'll ask. Today, we'll talk about the standard answers to give for each question. I'll also cover how to give customers a short survey where they can rate their interaction with the call center before you end the call.
+
+77. What is the purpose of the meeting?
+A. To revise a staff manual
+> B. To train customer service employees
+C. To review some résumés
+D. To present a product to clients
+
+78. What have the listeners received?
+> A. A list of typical questions
+B. A review of potential vendors
+C. An advertising brochure
+D. An updated meeting agenda
+
+79. What is the final step in a process?
+A. Charging a credit card
+B. Signing a contract
+> C. Conducting a survey
+D. Filling a document
