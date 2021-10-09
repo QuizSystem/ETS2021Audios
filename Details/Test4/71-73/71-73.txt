@@ -1,3 +1,19 @@
-71-73
+W-Am: Hi, everyone. To start our monthly meeting, I have exciting news about the company. We've been expanding so much in the past couple of years that it's come time to open a second office location. We've chosen Los Angeles. There's an exciting opportunity that comes along with this. We'll need a manager to help oversee the new office. I would prefer to promote one of you for this role. If you'd like to learn about the responsibilities of the position, please stick around after this meeting. I'll discuss what the position will entail so you can decide if you want to apply.
 
-W-Am: Hi, everyone. To start our monthly meeting, I have exciting news about the company.
+71. What news does the speaker provide about the company?
+> A. A second location will be opening.
+B. A new product has been developed.
+C. An important customer has signed a contract.
+D. A team will attend a conference.
+
+72. According to the speaker, what do the listeners have the opportunity to do?
+A. Conduct some research
+B. Take a certification course
+C. Present at a conference
+> D. Become a manager
+
+73. What does the speaker suggest some listeners do?
+A. Visit a Web site
+B. Sign an attendance sheet
+> C. Stay after the meeting
+D. E-mail an administrator
