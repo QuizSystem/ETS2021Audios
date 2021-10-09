@@ -1,9 +1,9 @@
-W-Am Hi, John. Thanks for stopping by my office. Now that we’re using the new project management software, how is it affecting the factory’s production schedule? Will the hybrid sedans be ready for delivery to the dealerships on time?
-M-Cn Yes. Production for those cars is still on schedule, but the managers are having some problems with the software. I set up another training session for them on Tuesday, which should help with that.
-W-Am OK, that’s good to hear. Would you mind sending out an e-mail to remind them about the training? It’s important that all the managers attend so they can get up to speed.
+W-Am: Hi, John. Thanks for stopping by my office. Now that we're using the new project management software, how is it affecting the factory's production schedule? Will the hybrid sedans be ready for delivery to the dealerships on time?
+M-Cn: Yes. Production for those cars is still on schedule, but the managers are having some problems with the software. I set up another training session for them on Tuesday, which should help with that.
+W-Am: OK, that's good to hear. Would you mind sending out an e-mail to remind them about the training? It's important that all the managers attend so they can get up to speed.
 
 53. What industry do the speakers most likely work in?
-(A) Automobile
+> (A) Automobile
 (B) Marketing
 (C) Clothing
 (D) Entertainment
@@ -12,10 +12,10 @@ W-Am OK, that’s good to hear. Would you mind sending out an e-mail to remind t
 (A) Job interviews
 (B) A business convention
 (C) Maintenance work
-(D) A training session
+> (D) A training session
 
 55. What does the woman ask the man to do?
 (A) Review a presentation
 (B) Contact a supplier
-(C) Send out a reminder
+> (C) Send out a reminder
 (D) Update a document

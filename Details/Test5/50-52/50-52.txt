@@ -1,17 +1,17 @@
-W-Am Hello, Alonso. I’m calling from Kardaman Technology about your upcoming job interview next week.
-M-Au Excellent. I was told someone would therefore contact me about travel arrangements.
-W-Am Regarding flights… you’d leave New York on the seventh, spend the day in our San Francisco office on the eighth, and then fly back on the ninth. And you’d stay at a hotel near our offices.
-M-Au Oh, I was wondering if I could stay a little longer. My college roommate lives in San Francisco, and I’d like to visit him.
-W-Am That’s probably fine, but I’d like to check with my supervisor before making changes. I’ll let you know what I find out.
+W-Am: Hello, Alonso. I'm calling from Kardaman Technology about your upcoming job interview next week.
+M-Au: Excellent. I was told someone would therefore contact me about travel arrangements.
+W-Am: Regarding flights... you'd leave New York on the seventh, spend the day in our San Francisco office on the eighth, and then fly back on the ninth. And you’d stay at a hotel near our offices.
+M-Au: Oh, I was wondering if I could stay a little longer. My college roommate lives in San Francisco, and I'd like to visit him.
+W-Am: That's probably fine, but I'd like to check with my supervisor before making changes. I’ll let you know what I find out.
 
 50. Why is the woman calling?
 (A) To explain a hiring policy
-(B) To discuss travel arrangements
+> (B) To discuss travel arrangements
 (C) To request a confirmation number
 (D) To provide information about some clients
 
 51. What does the man say he wants to do?
-(A) Visit a friend
+> (A) Visit a friend
 (B) Find a lower fare
 (C) Attend a conference
 (D) Check a handbook
@@ -20,4 +20,4 @@ W-Am That’s probably fine, but I’d like to check with my supervisor before m
 (A) Send some forms
 (B) Contact a travel agent
 (C) Arrange a shuttle pickup
-(D) Get permission from a supervisor
+> (D) Get permission from a supervisor

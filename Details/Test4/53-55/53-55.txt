@@ -1,27 +1,27 @@
 53-55
 
-M-Au Hi. It’s Peter Wang, calling from the Research and Development department.
+M-Au: Hi. It's Peter Wang, calling from the Research and Development department.
 W-Am Hi, Peter. How can I help you?
 M-Au I’m organizing a mentorship program where our senior engineers will meet with new hires once a week and give them advice.
 W-Am That sounds like a great idea.
-M-Au I know you keep the new employees’ résumés over there at Human Resources. Could you e-mail them to me? I want to match the new engineers with mentors.
+M-Au I know you keep the new employees' résumés over there at Human Resources. Could you e-mail them to me? I want to match the new engineers with mentors.
 W-Am Actually, the résumés are all posted on our company’s internal Web site.
 M-Au Oh, I didn’t know that. Thanks.
 
 53. Which department is the man calling from?
 (A) Finance
 (B) Customer Service
-(C) Research and Development
+> (C) Research and Development
 (D) Sales
 
 54. What is the man working on?
-(A) A mentorship program
+> (A) A mentorship program
 (B) A career fair
 (C) A training session
 (D) An online professional network
 
-55. What does the woman mean when she says, “the résumés are all posted on our company’s internal Web site”?
+55. What does the woman mean when she says, "the résumés are all posted on our company’s internal Web site"?
 (A) She has met a deadline.
 (B) She cannot find a certain file.
-(C) The man can complete a task himself.
+> (C) The man can complete a task himself.
 (D) The man is a reliable employee.

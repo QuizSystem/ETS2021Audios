@@ -1,17 +1,17 @@
-M-Cn Hi, I’m happy to see that LMJ Electronics has a table here at the Middleton Technology Exhibition this year. You always have cutting-edge products.
-W-Br Yes, LMJ Electronics always has something new to show at this exhibition. This is our latest laptop… the Flash Computer. It’s in the final stages of development.
-W-Cn Really? Oh, that’s too bad. I read about it, and I’d really like to order one.
-W-Br Well, just add your name and e-mail address to our contact list, and we’ll let you know as soon as the product is on the market.
+M-Cn: Hi, I'm happy to see that LMJ Electronics has a table here at the Middleton Technology Exhibition this year. You always have cutting-edge products.
+W-Br: Yes, LMJ Electronics always has something new to show at this exhibition. This is our latest laptop... the Flash Computer. It's in the final stages of development.
+W-Cn: Really? Oh, that's too bad. I read about it, and I’d really like to order one.
+W-Br: Well, just add your name and e-mail address to our contact list, and we'll let you know as soon as the product is on the market.
 
 44. Where does the conversation take place?
 (A) At an art gallery opening
 (B) At an automobile show
-(C) At a technology exhibition
+> (C) At a technology exhibition
 (D) At a cooking demonstration
 
 45. What does the woman say about an item?
 (A) It is sold out.
-(B) It is still being developed.
+> (B) It is still being developed.
 (C) It is covered by a warranty.
 (D) It includes an informational video.
 
@@ -19,4 +19,4 @@ W-Br Well, just add your name and e-mail address to our contact list, and we’l
 (A) Check a Web site
 (B) Pick up a brochure
 (C) Pay with a credit card
-(D) Provide contact information
+> (D) Provide contact information

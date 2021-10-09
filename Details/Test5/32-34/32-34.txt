@@ -1,23 +1,23 @@
-W-Br Hello, sir. lt looks like you’re ready to check out. Thank you for shopping at Peterson Office Supplies in Werthington. Did you find everything you needed?
-M-Cn Yes, I’ll take this box of printer paper. And I do have a coupon for 50 percent off.
-W-Br I’m sorry, sir, but that coup on’s expired.
-M-Cn Really? Oh, that’s too bad. Well, it’s a good price for printer paper, so I’ll buy it anyway. I’ve just started a business here in Werthington and I really need it.
-W-Br In that case, you should sign up for our business membership program. New business owners are eligible for additional savings throughout the year.
+W-Br: Hello, sir. It looks like you're ready to check out. Thank you for shopping at Peterson Office Supplies in Werthington. Did you find everything you needed?
+M-Cn: Yes, I'll take this box of printer paper. And I do have a coupon for 50 percent off.
+W-Br: I'm sorry, sir, but that coupon's expired.
+M-Cn: Really? Oh, that's too bad. Well, it's a good price for printer paper, so I'll buy it anyway. I’ve just started a business here in Werthington and I really need it.
+W-Br: In that case, you should sign up for our business membership program. New business owners are eligible for additional savings throughout the year.
 
 32. Who most likely is the woman?
 (A) A delivery driver
 (B) A bank teller
-(C) A store cashier
+> (C) A store cashier
 (D) A graphic designer
 
 33. Why does the woman apologize?
 (A) Her manager is not available.
-(B) A coupon has expired.
+> (B) A coupon has expired.
 (C) A fee has increased.
 (D) A package is missing.
 
 34. What does the woman recommend that the man do?
 (A) Return the next day
-(B) Register for a membership program
+> (B) Register for a membership program
 (C) Read some instructions
 (D) Request technical support

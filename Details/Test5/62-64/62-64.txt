@@ -1,18 +1,18 @@
-W-Br Hello, this is Maria Krishnan at Krishnan Financial Services. How can I help you?
-M-Au Hi. I need to make some long-termbudgeting decisions for my business, and I’d like to consult with you. Could you meet toward the end of next week?
-W-Br Hm, I’ll be at an all-day workshop on Friday, but how about March eleventh? I have a client meeting at two o’clock that day, but l’m available in the morning.
-M-Au Yes, that’s great. Should I bring anything to the appointment besides my recent financial reports?
-W-Br Actually, could you please send those to me ahead of time? That way I’ll be able to review the records before we meet.
+W-Br: Hello, this is Maria Krishnan at Krishnan Financial Services. How can I help you?
+M-Au: Hi. I need to make some long-termbudgeting decisions for my business, and I’d like to consult with you. Could you meet toward the end of next week?
+W-Br: Hm, I'll be at an all-day workshop on Friday, but how about March eleventh? I have a client meeting at two o’clock that day, but I'm available in the morning.
+M-Au: Yes, that’s great. Should I bring anything to the appointment besides my recent financial reports?
+W-Br: Actually, could you please send those to me ahead of time? That way I'll be able to review the records before we meet.
 
 62. Why is the man calling the woman?
 (A) To fix a scheduling error
 (B) To register for a workshop
 (C) To confirm a lunch reservation
-(D) To arrange a consultation
+> (D) To arrange a consultation
 
 63. Look at the graphic. On which day will the speakers meet?
 (A) Tuesday
-(B) Wednesday
+> (B) Wednesday
 (C) Thursday
 (D) Friday
 
@@ -20,4 +20,4 @@ W-Br Actually, could you please send those to me ahead of time? That way I’ll 
 (A) Arrive early to an appointment
 (B) Arrange transportation
 (C) Pay a fee in advance
-(D) Send some documents
+> (D) Send some documents

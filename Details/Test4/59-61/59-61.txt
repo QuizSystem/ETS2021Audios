@@ -1,26 +1,26 @@
 59-61
 
-M-CnThank you for calling the management office at Rhinebeck Apartments. How can I help you?
-W-Am Hello, this is Mary Cooper. I live in apartment 302, but I’m locked out-l can’t find my door key.
-M-Cn OK, but we’re really busy right now.How about I send a worker out to your place around seven?
-W-Am Seven? I’m hosting a dinner at my place at six tonight.
-M-Cn In that case, you could come to the management office now and get a new key.
-W-Am Thanks, l’Il do that. I’ll be there soon.
+M-Cn: Thank you for calling the management office at Rhinebeck Apartments. How can I help you?
+W-Am: Hello, this is Mary Cooper. I live in apartment 302, but I'm locked out-l can't find my door key.
+M-Cn: OK, but we're really busy right now.How about I send a worker out to your place around seven?
+W-Am: Seven? I’m hosting a dinner at my place at six tonight.
+M-Cn: In that case, you could come to the management office now and get a new key.
+W-Am: Thanks, I'll do that. I'll be there soon.
 
 59. Who most likely is the man?
 (A) A store owner
-(B) A property manager
+> (B) A property manager
 (C) A car mechanic
 (D) An office cleaner
 
-60. Why does the woman say, “I’m hosting a dinner at my place at six tonight”?
+60. Why does the woman say, "I'm hosting a dinner at my place at six tonight"?
 (A) To request a recipe
 (B) To extend an invitation
-(C) To reject a suggestion
+> (C) To reject a suggestion
 (D) To confirm a location
 
 61. What will the woman do next?
 (A) Prepare some food
 (B) Go to work
 (C) Call a repair shop
-(D) Pick up a key
+> (D) Pick up a key

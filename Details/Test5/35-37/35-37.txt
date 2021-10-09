@@ -1,19 +1,19 @@
-W-Am Hi, Roger. I have a question about my trip to the conference next month.
-M-Au Oh, the one in Chicago? Sure, what is it?
-W-Am It’s about booking my flight. I was planning to fly home right after the conference ends. But I noticed that flights for the next day are 400 dollars cheaper.
-M-Au Well, you know that might work in our favor. If you stay until the next day, then you could visit Marburn Industriesthey’re one of our top clients in the Chicago area.
-W-Am That’d be great. Who at Marburn Industries should I contact to arrange the meeting?
-M-Au Janice Shelton – I’ll send you her e-mail address when I get back to my desk.
+W-Am: Hi, Roger. I have a question about my trip to the conference next month.
+M-Au: Oh, the one in Chicago? Sure, what is it?
+W-Am: It's about booking my flight. I was planning to fly home right after the conference ends. But I noticed that flights for the next day are 400 dollars cheaper.
+M-Au: Well, you know that might work in our favor. If you stay until the next day, then you could visit Marburn Industries - they're one of our top clients in the Chicago area.
+W-Am: That’d be great. Who at Marburn Industries should I contact to arrange the meeting?
+M-Au: Janice Shelton – I'll send you her e-mail address when I get back to my desk.
 
 35. What does the woman ask about?
-(A) Making travel arrangements
+> (A) Making travel arrangements
 (B) Leading a workshop
 (C) Ordering promotional materials
 (D) Practicing a sales presentation
 
 36. What does the man suggest the woman do after the conference?
 (A) Purchase some equipment
-(B) Meet with a client
+> (B) Meet with a client
 (C) Visit a museum
 (D) Interview some job candidates
 
@@ -21,4 +21,4 @@ M-Au Janice Shelton – I’ll send you her e-mail address when I get back to my
 (A) A reimbursement form
 (B) A confirmation code
 (C) A telephone number
-(D) An e-mail address
+> (D) An e-mail address

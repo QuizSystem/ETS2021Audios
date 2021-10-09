@@ -1,11 +1,11 @@
-M-Au Hi, Tomoko. I’m looking forward to our office picnic tomorrow! What are you thinking of bringing?
-W-Br Well, cookies are on sale at the supermarket this week.
-M-Au Oh, I didn’t look at the sale items. I figure I’ll make some sort of pasta dish.
-W-Br The food you cook is always delicious. You know… I’m really glad the new department manager is organizing social activities for us-hiring him was a good choice.
-M-Au I agree. And don’t forget about next week’s company outing. We’re going to a basketball game!
+M-Au: Hi, Tomoko. I'm looking forward to our office picnic tomorrow! What are you thinking of bringing?
+W-Br: Well, cookies are on sale at the supermarket this week.
+M-Au: Oh, I didn't look at the sale items. I figure I’ll make some sort of pasta dish.
+W-Br: The food you cook is always delicious. You know... I'm really glad the new department manager is organizing social activities for us-hiring him was a good choice.
+M-Au: I agree. And don't forget about next week's company outing. We're going to a basketball game!
 
 59. What does the woman mean when she says, “cookies are on sale at the supermarket this week”?
-(A) She plans to bring cookies to an event.
+> (A) She plans to bring cookies to an event.
 (B) She needs to stay within a budget.
 (C) The man should go to the supermarket.
 (D) The man should revise a store advertisement.
@@ -13,11 +13,11 @@ M-Au I agree. And don’t forget about next week’s company outing. We’re goi
 60. Who did the company recently hire?
 (A) A graphic designer
 (B) A cafeteria chef
-(C) A department manager
+> (C) A department manager
 (D) A financial advisor
 
 61. What does the man remind the woman about?
-(A) A sporting event
+> (A) A sporting event
 (B) A project deadline
 (C) A reimbursement process
 (D) A trade conference

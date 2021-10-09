@@ -1,12 +1,12 @@
 68-70
 
-W-Am Oh, hello Duncan. Is that the new coffee maker for our office break room?
-M-Cn Yes, it is. This model uses a lot less energy. With all the coffee we drink, we’ll save money on electricity.
-W-Am That model looks bigger than I expected-much bigger than the old one. I’m worried there won’t be enough counter space for it. Are you going to put it next to the refrigerator?
-M-Cn No, I think there’s more space next to the microwave-let’s put it there instead.
+W-Am: Oh, hello Duncan. Is that the new coffee maker for our office break room?
+M-Cn: Yes, it is. This model uses a lot less energy. With all the coffee we drink, we'll save money on electricity.
+W-Am: That model looks bigger than I expected-much bigger than the old one. I’m worried there won’t be enough counter space for it. Are you going to put it next to the refrigerator?
+M-Cn: No, I think there's more space next to the microwave - let's put it there instead.
 
 68. What does the man say about the appliance?
-(A) It is energy efficient.
+> (A) It is energy efficient.
 (B) It has an automatic timer.
 (C) It is lightweight.
 (D) It was inexpensive.
@@ -15,10 +15,10 @@ M-Cn No, I think there’s more space next to the microwave-let’s put it there
 (A) She thinks it will be difficult to use.
 (B) She does not like the color.
 (C) It was not approved by a supervisor.
-(D) It is larger than expected.
+> (D) It is larger than expected.
 
 70. Look at the graphic. Where does the man plan to put the appliance?
 (A) At Location #1
 (B) At Location #2
-(C) At Location #3
+> (C) At Location #3
 (D) At Location #4

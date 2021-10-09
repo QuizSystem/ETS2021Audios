@@ -1,22 +1,22 @@
-W-Arn Hi James and Amal. I wanted to talk to you because Golden International has announced plans to open another location, here in Palmville. The feature attraction at their new amusement park will be the High-Flying Roller Coastertheir fastest ride ever.
-W-Br That’s not good news. With a competing park coming to the area, we could have trouble keeping customers.
-W-Am That worries me too. But their target opening date is in two years, so there’s time to think of ways to retain customers. We could lower ticket prices.
-M-Cn Hmm, but rides can be a bigger draw than price. Let’s talk to Appalachian Incorporated-it’s earned a reputation as one of the top roller coaster design firms in the world.
+W-Am: Hi James and Amal. I wanted to talk to you because Golden International has announced plans to open another location, here in Palmville. The feature attraction at their new amusement park will be the High-Flying Roller Coastertheir fastest ride ever.
+W-Br: That's not good news. With a competing park coming to the area, we could have trouble keeping customers.
+W-Am: That worries me too. But their target opening date is in two years, so there's time to think of ways to retain customers. We could lower ticket prices.
+M-Cn: Hmm, but rides can be a bigger draw than price. Let's talk to Appalachian Incorporated - it's earned a reputation as one of the top roller coaster design firms in the world.
 
 38. What type of business is being discussed?
 (A) An art supply store
 (B) A toy manufacturer
-(C) An amusement park
+> (C) An amusement park
 (D) A travel agency
 
 39. What are the women concerned about?
 (A) Complaints from customers
-(B) A new competitor
+> (B) A new competitor
 (C) Employee safety
 (D) The cost of equipment
 
 40. What does the man say about Appalachian Incorporated?
 (A) It often works with their company.
 (B) It completes projects quickly.
-(C) It has a good reputation.
+> (C) It has a good reputation.
 (D) It is located nearby.

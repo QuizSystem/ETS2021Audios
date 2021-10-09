@@ -1,19 +1,19 @@
 62-64
 
-W-Am Hello, this is Sonya Bauman speaking.
-M-Cn Hi, Sonya? It’s Yoonbo from law school. I just heard you opened your own law practice here in the city, and I wanted to give you a call.
-W-Am Hi, Yoonbo. You should come visit. opened my office last year-it’s right in the center of town, so I really couldn’t be happier with the neighborhood. The location’s my favorite thing about the office.
-M-Cn That’s great to hear. Hey, if you’re thinking about hiring a new associate, l’m available. I’m interviewing at a few places now. Could I send you my résumé?
-W-Am Sure, send it along. l’ll definitely take a look.
+W-Am: Hello, this is Sonya Bauman speaking.
+M-Cn: Hi, Sonya? It's Yoonbo from law school. I just heard you opened your own law practice here in the city, and I wanted to give you a call.
+W-Am: Hi, Yoonbo. You should come visit. opened my office last year-it's right in the center of town, so I really couldn’t be happier with the neighborhood. The location’s my favorite thing about the office.
+M-Cn: That’s great to hear. Hey, if you're thinking about hiring a new associate, I'm available. I’m interviewing at a few places now. Could I send you my résumé?
+W-Am: Sure, send it along. I'll definitely take a look.
 
 62. Look at the graphic. What is the woman’s office number?
 (A) 900
-(B) 920
+> (B) 920
 (C) 960
 (D) 972
 
 63. What does the woman like best about her office?
-(A) The central location
+> (A) The central location
 (B) The security staff
 (C) The open floor plan
 (D) The inexpensive rental fee
@@ -21,5 +21,5 @@ W-Am Sure, send it along. l’ll definitely take a look.
 64. What will the man send the woman?
 (A) A client list
 (B) A budget proposal
-(C) A résumé
+> (C) A résumé
 (D) A donation

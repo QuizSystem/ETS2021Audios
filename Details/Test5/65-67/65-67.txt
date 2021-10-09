@@ -1,22 +1,22 @@
-M-Cn Heidi, l’ve been worried lately that our lobby looks old-fashioned. I think we should replace the wallpaper and use something more up-to-date. The office entry area could benefit from a new look.
-W-Br Well, we have had that wallpaper for almost twenty years, so maybe it is time for a change. Do you have any designs in mind?
-M-Cn Yeah, actually. l collected some samples and I narrowed it down to four optionsthey’re right here. I prefer the circles myself. What do you think?
-W-Br Hmm, maybe. But perhaps we should consult with an interior decorator-they’ll know what would look best.
+M-Cn: Heidi, I've been worried lately that our lobby looks old-fashioned. I think we should replace the wallpaper and use something more up-to-date. The office entry area could benefit from a new look.
+W-Br: Well, we have had that wallpaper for almost twenty years, so maybe it is time for a change. Do you have any designs in mind?
+M-Cn: Yeah, actually. I collected some samples and I narrowed it down to four options - they'’'re right here. I prefer the circles myself. What do you think?
+W-Br: Hmm, maybe. But perhaps we should consult with an interior decorator - they'’'ll know what would look best.
 
 65. Why is the man concerned?
 (A) He misplaced some design samples.
-(B) An office lobby looks outdated.
+> (B) An office lobby looks outdated.
 (C) An installation team may be late.
 (D) Some materials are too expensive.
 
 66. Look at the graphic. Which sample does the man prefer?
 (A) Sample #1
-(B) Sample #2
+> (B) Sample #2
 (C) Sample #3
 (D) Sample #4
 
 67. What does the woman suggest doing?
 (A) Taking some measurements
 (B) Ordering from a different supplier
-(C) Speaking with an interior decorator
+> (C) Speaking with an interior decorator
 (D) Getting approval from a manager

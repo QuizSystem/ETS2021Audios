@@ -1,19 +1,19 @@
 65-67
 
-M-Au As you know, our sales here at Newton Electronics dropped ten percent from last year. We need to make our products more attractive to consumers.
-W-Br Well, I created this chart to list the features we at Newton Electronics offer compared to what our top competitor offers. Maybe it can help us figure out a new strategy.
-M-Au Hmm…. see that we provide a feature that Technology Brothers doesn’t. I think we should focus on promoting that.
-W-Br That’s a good idea. l’ll contact our marketing team and have them start working on a new series of advertisements right away.
+M-Au: As you know, our sales here at Newton Electronics dropped ten percent from last year. We need to make our products more attractive to consumers.
+W-Br: Well, I created this chart to list the features we at Newton Electronics offer compared to what our top competitor offers. Maybe it can help us figure out a new strategy.
+M-Au: Hmm... see that we provide a feature that Technology Brothers doesn't. I think we should focus on promoting that.
+W-Br: That's a good idea. I'll contact our marketing team and have them start working on a new series of advertisements right away.
 
 65. What problem does the man mention?
 (A) A discount has expired.
 (B) Some raw materials are unavailable.
-(C) Sales have decreased.
+> (C) Sales have decreased.
 (D) Delivery costs are too high.
 
 66. Look at the graphic. Which feature does the man suggest focusing on?
 (A) Free shipping
-(B) Lifetime warranty
+> (B) Lifetime warranty
 (C) Annual maintenance
 (D) Loyalty program
 
@@ -21,4 +21,4 @@ W-Br That’s a good idea. l’ll contact our marketing team and have them start
 (A) Visit a nearby factory
 (B) Create a customer survey
 (C) Finish a design
-(D) Contact some coworkers
+> (D) Contact some coworkers

@@ -1,13 +1,13 @@
 M-Au Hi, Dolores. John’s out sick and hasn’t prepared our team’s progress report for the regional manager. Would you be able to do it?
 W-Br Sure, no problem.
 M-Au Thanks, I appreciate that. Any chance you could finish it by Friday?
-W-Br Hmm… even if I start now, Friday is in two days.
-M-Au I understand. Well, I guess early next week would be OK.
-W-Br OK. Poor John… I hope he feels better soon. By the way, if he’s currently out, who will participate in the conference call tomorrow?
-M-Au I was planning to do that for him.
+W-Br: Hmm... even if I start now, Friday is in two days.
+M-Au: I understand. Well, I guess early next week would be OK.
+W-Br: OK. Poor John... I hope he feels better soon. By the way, if he’s currently out, who will participate in the conference call tomorrow?
+M-Au: I was planning to do that for him.
 
 41. What does the man ask the woman to do?
-(A) Write a report
+> (A) Write a report
 (B) Meet with a job candidate
 (C) Prepare an itinerary
 (D) Respond to an e-mail
@@ -15,11 +15,11 @@ M-Au I was planning to do that for him.
 42. Why does the woman say, “Friday is in two days”?
 (A) To express excitement for an activity
 (B) To suggest a time to meet
-(C) To object to a proposed deadline
+> (C) To object to a proposed deadline
 (D) To encourage a colleague
 
 43. What will the man do tomorrow?
 (A) Sign a contract
-(B) Join a conference call
+> (B) Join a conference call
 (C) Visit a hospital
 (D) Organize a training session

@@ -1,25 +1,25 @@
 50-52
 
-W-Am Antonio, good news! The network renewed our television series for another season. And they want me to lead the writing team again.
-M-Cn That’s wonderful! I’ll get the rest of the team together. We should get started as soon as possible.
-W-Am Oh, wait… Dolores took a new job in postproduction a couple of weeks ago, remember? I guess we’ll need to hire another writer.
-M-Cn We should check some of the writing samples we have on file.
-W-Am OK. Let’s start reviewing those sample scripts this afternoon.
+W-Am: Antonio, good news! The network renewed our television series for another season. And they want me to lead the writing team again.
+M-Cn: That's wonderful! I'll get the rest of the team together. We should get started as soon as possible.
+W-Am: Oh, wait... Dolores took a new job in postproduction a couple of weeks ago, remember? I guess we’ll need to hire another writer.
+M-Cn: We should check some of the writing samples we have on file.
+W-Am: OK. Let’s start reviewing those sample scripts this afternoon.
 
 50. What industry do the speakers most likely work in?
 (A) Publishing
 (B) Fashion
 (C) Music
-(D) Television
+> (D) Television
 
 51. What problem does the woman mention?
 (A) A budget has been reduced.
 (B) A holiday is coming up.
-(C) A team member left for another job.
+> (C) A team member left for another job.
 (D) Some equipment is unavailable.
 
 52. What do the speakers plan to do this afternoon?
 (A) Postpone a performance
-(B) Review some writing samples
+> (B) Review some writing samples
 (C) Meet with a talent agent
 (D) Reserve a work space
