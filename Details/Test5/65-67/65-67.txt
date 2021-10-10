@@ -1,7 +1,7 @@
 M-Cn: Heidi, I've been worried lately that our lobby looks old-fashioned. I think we should replace the wallpaper and use something more up-to-date. The office entry area could benefit from a new look.
 W-Br: Well, we have had that wallpaper for almost twenty years, so maybe it is time for a change. Do you have any designs in mind?
-M-Cn: Yeah, actually. I collected some samples and I narrowed it down to four options - they'’'re right here. I prefer the circles myself. What do you think?
-W-Br: Hmm, maybe. But perhaps we should consult with an interior decorator - they'’'ll know what would look best.
+M-Cn: Yeah, actually. I collected some samples and I narrowed it down to four options - they're right here. I prefer the circles myself. What do you think?
+W-Br: Hmm, maybe. But perhaps we should consult with an interior decorator - they'll know what would look best.
 
 65. Why is the man concerned?
 (A) He misplaced some design samples.

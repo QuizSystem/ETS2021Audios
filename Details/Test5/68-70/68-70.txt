@@ -1,9 +1,9 @@
 M-Cn: Carol, are you ready for your second week of server training?
 W-Am: Definitely!
 M-Cn: Remember, the most important part of being a server is knowing our menu inside and out.
-W-Am: Well, reviewed the entire menu yesterday.
-M-Cn: Great, but before we start... let's make sure you remember where all of the tables are. lt looks like there’s some food ready for customers. Here's the order ticket. Where should we take it?
-W-Am: Well, tables one to ten are in the downstairs dining room, eleven to twenty are out on the patio, and, uh… twenty-one to thirty are in the upstairs dining room. I've got it.
+W-Am: Well, I reviewed the entire menu yesterday.
+M-Cn: Great, but before we start... let's make sure you remember where all of the tables are. lt looks like there's some food ready for customers. Here's the order ticket. Where should we take it?
+W-Am: Well, tables one to ten are in the downstairs dining room, eleven to twenty are out on the patio, and, uh... twenty-one to thirty are in the upstairs dining room. I've got it.
 
 68. What job is the woman training for?
 (A) Chef
