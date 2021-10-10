@@ -18,8 +18,8 @@ M-Au: Of course. Thank you.
 > (C) Conduct a quality control test
 (D) Respond to customer complaints
 
-> 49. What does Anya give to the man?
-(A) Some gloves
+49. What does Anya give to the man?
+> (A) Some gloves
 (B) Some product samples
 (C) An instruction manual
 (D) An identification badge

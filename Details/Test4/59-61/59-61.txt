@@ -1,9 +1,9 @@
 59-61
 
 M-Cn: Thank you for calling the management office at Rhinebeck Apartments. How can I help you?
-W-Am: Hello, this is Mary Cooper. I live in apartment 302, but I'm locked out-l can't find my door key.
-M-Cn: OK, but we're really busy right now.How about I send a worker out to your place around seven?
-W-Am: Seven? I’m hosting a dinner at my place at six tonight.
+W-Am: Hello, this is Mary Cooper. I live in apartment 302, but I'm locked out - I can't find my door key.
+M-Cn: OK, but we're really busy right now. How about I send a worker out to your place around seven?
+W-Am: Seven? I'm hosting a dinner at my place at six tonight.
 M-Cn: In that case, you could come to the management office now and get a new key.
 W-Am: Thanks, I'll do that. I'll be there soon.
 
