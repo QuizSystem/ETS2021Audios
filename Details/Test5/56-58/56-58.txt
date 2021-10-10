@@ -2,7 +2,7 @@ W-Br: Hi, I'm here to see Albert Jenkins, the building project supervisor.
 M-Au: That's me. How can I help you?
 W-Br: I'm Julie Huang from Monahan Enterprises. I'm here to check on how our new office building is coming along. Would you mind telling me how things are going?
 M-Au: Sure. As you can probably see, we're installing all the windows and doors. We only have two more floors to go. If we keep up this pace, we should be finished by the ninth.
-W-Br: So you're ahead of schedule? Well, l’m glad to hear that. I'll meet with the management team later today, so I'll update them on your progress.
+W-Br: So you're ahead of schedule? Well, I'm glad to hear that. I'll meet with the management team later today, so I'll update them on your progress.
 
 56. Where is the conversation most likely taking place?
 > (A) At a construction site
